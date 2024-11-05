@@ -16,6 +16,10 @@
   background: url(../../image/coffee-background.jpg) no-repeat center/cover;
 }
 
-.back--img--contain {
+.back-img-contain {
   background: url(../../image/coffee-background.jpg) no-repeat center/contain;
+}
+
+.background-centered {
+  background: url(../../image/coffee-background.jpg) no-repeat center / contain;
 }
